@@ -1,7 +1,5 @@
-# data_analyst_yandex_practicum
+# Data Analyst certification @ Yandex Practicum
 Projects that I completed within my Data Analyst certification at Yandex Practicum
-
-# Data analyst
 
 ## Описание:
 В репозитории представлены проекты курса [Аналитик данных](https://praktikum.yandex.ru/data-analyst/) (Яндекс.Практикум).
@@ -14,10 +12,9 @@ Projects that I completed within my Data Analyst certification at Yandex Practic
 - Метрики юнит-экономики, когортный анализ
 - А/В-тестирование
 - Работа с гипотезами
-- Машинное обучение: библиотеки Scikit-learn, XGBoost
 
 ## Программа обучения:
-![-](https://github.com/old-speckled)
+![-](https://github.com/old-speckled/yandex_practicum_da/blob/main/data_analyst_course_program.png)
 
 ## Проекты:
 | №| Название и ссылка | О чем проект                                                     | Навыки и инструменты           |  
@@ -35,5 +32,5 @@ Projects that I completed within my Data Analyst certification at Yandex Practic
 |11             |[Исследование рынка общественного питания](catering_market)|Исследование рынка на основе открытых данных о заведениях общественного питания Москвы|`Python` `Pandas` `Matplotlib` `Seaborn` `Plotly` `визуализация данных`|
 |12             |[Дашборд для Яндекс.Дзена](https://public.tableau.com/) и [Презентация](https://disk.yandex.ru/)|Разрабатываем и презентуем дашборд для анализа пользовательского взаимодействия в сервисе Яндекс.Дзен (Tableau Public)|`Python` `PostgreSQL` `Tableau` `продуктовые метрики` `построение дашбордов`|
 |13             |[Прогнозирование оттока клиентов сети фитнес-центров](gym_churn/)|Разрабатываем модель машинного обучения для прогнозирования оттока клиентов в фитнес-центре. Наша задача — провести анализ, составить портреты клиентов и подготовить план действий по их удержанию|`Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `машинное обучение` `классификация` `кластеризация`|
-|14             |[Выпускной проект](graduation_project/). [Банки — cегментация пользователей по потреблению продуктов](https://github.com/old-speckled), [Презентация](https://github.com/old-speckled) и [Дашборд](https://public.tableau.com/); [А/B тестирование](https://github.com/old-speckled), [SQL](https://github.com/old-speckled)|Анализируем заемщиков банка (результат оформляем в виде Презентации), проверяем результаты А/B тестирования и подтверждаем гипотезы, разрабатываем дашборд в Tableau Public. изучаем мобильное приложение посредством SQL-запросов. |`SQL` `PostgreSQL` `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `машинное обучение` `классификация` `кластеризация` `Tableau` `продуктовые метрики` `построение дашбордов` `A/B-тестирование` `проверка статистических гипотез`|
+|14             |[Выпускной проект](graduation_project/). [Банки — cегментация пользователей по потреблению продуктов](https://github.com/old-speckled), [Презентация](https://github.com/old-speckled) и [Дашборд](https://public.tableau.com/); [А/B тестирование](https://github.com/old-speckled), [SQL](https://github.com/old-speckled)|Анализируем заемщиков банка (результат оформляем в виде Презентации), проверяем результаты А/B тестирования и подтверждаем гипотезы, разрабатываем дашборд в Tableau Public. изучаем мобильное приложение посредством SQL-запросов. |`SQL` `PostgreSQL` `Python` `Pandas` `Matplotlib` `Seaborn`  `Tableau` `продуктовые метрики` `построение дашбордов` `A/B-тестирование` `проверка статистических гипотез`|
 
